@@ -1,6 +1,6 @@
 # WDF Equalizer
 #
-# Script written by David Ross (my first Python script)
+# Script written by David Ross
 #
 # Paper:
 # Parametrically Tunable Audio Shelving And Equalizing Ladder Wave Digital Filters
